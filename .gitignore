@@ -1,0 +1,15 @@
+# Virtual environments
+first_venv/
+venv/
+.env/
+.venv/
+
+# # Python cache
+# __pycache__/
+# *.pyc
+
+# # Jupyter
+# .ipynb_checkpoints/
+
+# # Mac
+# .DS_Store
