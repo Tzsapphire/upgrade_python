@@ -1,3 +1,5 @@
+# INPUT STATTEMENTS
+
 # name_user = input("whats your name? ")
 # print(f"Hello {name_user}, welcome to python")
 
