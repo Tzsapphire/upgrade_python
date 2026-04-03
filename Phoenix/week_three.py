@@ -1,3 +1,5 @@
+# FOR LOOPS
+
 # Task 1
 # Given the list below
 # sales = [120,450,800,50,900,300]
