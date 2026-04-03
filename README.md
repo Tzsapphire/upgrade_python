@@ -8,8 +8,6 @@ They include exercises, mini-projects, and database-related practice, with empha
 - `exercise/` → Practice problems and small scripts
 - `python_drill/` → Jupyter notebooks for concept drills
 - `databases/` → Database-related practice
-- `db_con.py` → Database connection experiments
-
 
 ## 📚 2. Topics Covered
 
