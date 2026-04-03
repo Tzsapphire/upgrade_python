@@ -1,4 +1,5 @@
 # Virtual environments
+db_venv/
 first_venv/
 venv/
 .env/
