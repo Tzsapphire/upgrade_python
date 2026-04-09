@@ -1,0 +1,13 @@
+databases 
+creating with docker 
+
+docker run --name my-mysql -e MYSQL_ROOT_PASSWORD=pass123 -p 3306:3306 -d mysql
+DBeaver Connection: Host: localhost | Port: 3306 | User: root | Pass: pass123
+
+
+MSSQL
+docker run --name my-mssql -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=Password123!" -p 1433:1433 -d mcr.microsoft.com/mssql/server:2022-latest
+DBeaver Connection: Host: localhost | Port: 1433 | User: sa | Pass: Password123!
+
+to pause docker stop name e.g docker stop my-mysql
+to start docker stop name e.g docker start my-mysql
