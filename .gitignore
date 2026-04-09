@@ -18,3 +18,5 @@ __pycache__/
 
 # files 
 test.py
+databases/
+exercise/
